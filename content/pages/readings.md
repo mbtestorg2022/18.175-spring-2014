@@ -13,8 +13,8 @@ I use the same notation as Durrett whenever possible.
 In addition to the main textbook, there are many excellent textbooks and sets of lecture notes that cover the material of this course, several written by people right here at MIT. The course material is contained in the union of the following online texts for first-year graduate probability courses:
 
 *   [S.R.S. Varadhan's lecture notes](http://www.math.nyu.edu/faculty/varadhan/limittheorems.html)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Amir Dembo's lecture notes (PDF)](http://www-stat.stanford.edu/~adembo/stat-310a/lnotes.pdf)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Rick Durrett's book at CiteSeer (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.155.4899&rep=rep1&type=pdf) or at [Amazon](http://www.amazon.com/Probability-Cambridge-Statistical-Probabilistic-Mathematics/dp/0521765390/ref=sr_1_1?s=books&ie=UTF8&qid=1346212856&sr=1-1) and here is a ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[recently updated version (PDF)](https://services.math.duke.edu/~rtd/PTE/pte.html) from Durrett's web page.
+*   [Amir Dembo's lecture notes (PDF)](http://www-stat.stanford.edu/~adembo/stat-310a/lnotes.pdf)
+*   [Rick Durrett's book at CiteSeer (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.155.4899&rep=rep1&type=pdf) or at [Amazon](http://www.amazon.com/Probability-Cambridge-Statistical-Probabilistic-Mathematics/dp/0521765390/ref=sr_1_1?s=books&ie=UTF8&qid=1346212856&sr=1-1) and here is a [recently updated version (PDF)](https://services.math.duke.edu/~rtd/PTE/pte.html) from Durrett's web page.
 *   [Noel Vaillant's www.probability.net tutorials](http://www.probability.net/)
 *   [Dmitry Panchenko's notes for an earlier rendition of 18.175]({{< baseurl >}}/pages/lecture-slides).
 
