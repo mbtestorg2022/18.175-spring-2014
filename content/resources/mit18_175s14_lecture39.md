@@ -4,6 +4,7 @@ description: This file contains the information regarding theory of probability,
   slide 39.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-175-theory-of-probability-spring-2014/3a977190aa9bfacd4eb6b5a52abd57de_MIT18_175S14_Lecture39.pdf
 file_type: application/pdf
+parent_uid: 3d54cb1f-8df6-ccb3-f9fb-a234ec6516fb
 resourcetype: Document
 title: Theory of Probability, Lecture Slide 39
 uid: 3a977190-aa9b-facd-4eb6-b5a52abd57de

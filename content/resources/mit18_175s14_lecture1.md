@@ -4,6 +4,7 @@ description: This file contains the information regarding theory of probability,
   slide 1.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-175-theory-of-probability-spring-2014/e793116b0f70b437cca5e9cf75754cab_MIT18_175S14_Lecture1.pdf
 file_type: application/pdf
+parent_uid: 3d54cb1f-8df6-ccb3-f9fb-a234ec6516fb
 resourcetype: Document
 title: Theory of Probability, Lecture Slide 1
 uid: e793116b-0f70-b437-cca5-e9cf75754cab
